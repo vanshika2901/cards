@@ -1,0 +1,10 @@
+a{
+	color: white;
+}
+
+#header{
+background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSb-fLMcx4rKFCHiEnWuvGThUFzIKBwfUn-tA&usqp=CAU");
+	background-position: center;
+	background-repeat:no-repeat;
+	background-size: cover;
+}
